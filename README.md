@@ -1,7 +1,7 @@
 # how to run the project
-step1 : run the index.js module using command  (node index.js).
-step2 :  open a browser.
-step3 : type the url.
+1. Run the index.js module using command  (node index.js).
+2. Open a browser.
+3. Type the url.
 Examples of the url expressions:
 1. http://localhost:3000/5/plus/3
 2. http://localhost:3000/3/minus/5
